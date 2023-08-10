@@ -107,12 +107,8 @@ Examples:
 [ n1 -gt n2 ]  (true if n1 greater then n2, else false)
 [ n1 -lt n2 ]  (true if n1 less then n2, else false)
 
-dhsagyewfdcdshyucdsc nxcyuefndsuficdsfdsguf
-ncdscgdsuidsm cxsuycgdw
-dxgcvyidscvdsbcdsiyVC
-NVSXVDSUYVDSVBDSYVDS
-CNXSCGDS7IDCD
-DSNCVDSCUDSDSNBVW
-DSJDSUVDVDSLCVDSOVD
-BDCVUDSGUEWUF
+
+gfdrtbvctujyc cd56ycbyjhgc
+gtyftygbvcyrdyujgy
+gfdytcyhfyjh
 
