@@ -116,3 +116,7 @@ DSNCVDSCUDSDSNBVW
 DSJDSUVDVDSLCVDSOVD
 BDCVUDSGUEWUF
 
+
+Git Rebase
+The alternative to git merge is the git rebase option. In this, we rebase the entire feature branch to merge it with the main branch.
+Follow the following commands to perform merge commit:-
